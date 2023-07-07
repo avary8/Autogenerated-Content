@@ -1,0 +1,12 @@
+pandas
+tensorflow
+transformers
+numpy
+torch
+nltk
+scikit-learn
+spacy
+accelerate
+contractions
+chardet
+xformers

@@ -1,0 +1,13 @@
+pandas
+seaborn
+matplotlib
+nltk
+spacy
+contractions
+sklearn
+gensim
+transformers
+torch
+accelerate
+xformers
+profanity-check
